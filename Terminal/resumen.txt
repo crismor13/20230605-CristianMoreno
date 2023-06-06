@@ -1,0 +1,7 @@
+Comandos de terminal aprendidos en clase: 
+
+ls
+cat
+mkdir
+touch
+cd
