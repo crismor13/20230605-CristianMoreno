@@ -1,0 +1,34 @@
+Algunos comandos utilizados en esta práctica
+
+429  git remote add origin https://github.com/crismor13/20230605-CristianMoreno.git
+430  git init
+431  git remote add origin https://github.com/crismor13/20230605-CristianMoreno.git
+432  touch comandos.txt main.js index.html
+433  ls
+434  git add .
+435  git commit -m "commit 01 de CristianMoreno"
+436* git push origin main
+437  git branch feature01
+438  git checkout feature01
+439  mkdir Terminal Hardware
+440  ls
+441  touch Hardware/resumen.txt
+442  cd Hardware/
+443  ls
+444  cd..
+445  cd ..
+446  touch Terminal/resumen.txt
+447  git push origin feature01
+448  git add .
+449  git commit -m "commit 02 de CristianMoreno"
+450  git push origin feature01
+451  git branch feature02
+452  git checkout feature02
+453  git add .
+454  git commit -m "commit 03 de CristianMoreno"
+455  git push origin feature02
+456  git checkout main
+457  ls
+458  mv comandos.txt comandosUtilizados.txt
+459  ls
+460  history
